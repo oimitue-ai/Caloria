@@ -1,0 +1,10 @@
+{
+  "name": "caloria-pruebas",
+  "private": true,
+  "type": "module",
+  "description": "Herramientas de auditoría E2E de CALORÍA (Agente 4). Playwright y exceljs se toman del proyecto raíz.",
+  "devDependencies": {
+    "axe-core": "^4.14.1",
+    "lighthouse": "^13.6.0"
+  }
+}

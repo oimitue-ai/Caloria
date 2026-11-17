@@ -1,0 +1,1841 @@
+{
+ "fecha": "2026-11-17T06:15:24.246Z",
+ "segundos": 153.571,
+ "resultados": [
+  {
+   "seccion": "registro",
+   "nombre": "asistente: TMB 1,730 kcal (Mifflin-St Jeor)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "asistente: GET 2,682 kcal (1730 × 1.55 = 2681.5)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "asistente: meta 2,132 kcal (déficit 550 = 0.5 kg/sem × 7700 / 7)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "asistente: macros 148 / 239 / 65 g",
+   "ok": true,
+   "extra": "Proteína 148 g Carbohidratos 239 g Grasa 65 g"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar plátano en desayuno",
+   "ok": true,
+   "extra": "Plátano · predet.: 1 pieza mediano (7\" a 7 - 7/8\" largo) (118 g) · Vas a agregar 210kcal 236 g Proteína 2.6 g Carbohidratos 53."
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar leche deslactosada lala en desayuno",
+   "ok": true,
+   "extra": "Leche deslactosada · predet.: 1 porción (250 ml) · Vas a agregar 120kcal 250 ml Proteína 7.8 g Carbohidratos 12"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar huevo en desayuno",
+   "ok": true,
+   "extra": "Huevo entero, crudo · predet.: 1 pieza mediano (44 g) · Vas a agregar 143kcal 100 g Proteína 12.6 g Carbohidratos 0."
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar licuado de plátano en colacion1",
+   "ok": true,
+   "extra": "Licuado de plátano · predet.: 1 vaso (licuado completo) (384 g) · Vas a agregar 293kcal 384 g Proteína 9.4 g Carbohidratos 47."
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar código 7500478002801 en colacion1",
+   "ok": true,
+   "extra": "Cremax sabor a chocolate (Galletas de chocolate) · predet.: 1 porción (30 g) · Vas a agregar 152kcal 30 g Proteína 1 g Carbohidratos 19 g G"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar tortilla de maíz en almuerzo",
+   "ok": true,
+   "extra": "Tortilla de maíz · predet.: 1 tortilla (24 g) · Vas a agregar 157kcal 72 g Proteína 4.1 g Carbohidratos 32.1"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar frijoles refritos en almuerzo",
+   "ok": true,
+   "extra": "Frijoles refritos · predet.: 1 taza (260 g) · Vas a agregar 117kcal 130 g Proteína 6.5 g Carbohidratos 17."
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar código 795709010077 en almuerzo",
+   "ok": true,
+   "extra": "Wallaby organic, organic lowfat yogurt, black cherry · predet.: 6 oz (170 g) · Vas a agregar 139kcal 170 g Proteína 7 g Carbohidratos 23 g "
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar arroz en comida",
+   "ok": true,
+   "extra": "Arroz blanco, cocido · predet.: 1 taza (158 g) · Vas a agregar 205kcal 158 g Proteína 4.3 g Carbohidratos 44."
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar pozole en comida",
+   "ok": true,
+   "extra": "Pozole rojo de cerdo (plato servido) · predet.: 1 plato hondo (513 g) · Vas a agregar 405kcal 513 g Proteína 26.6 g Carbohidratos 31"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar barbacoa en comida",
+   "ok": true,
+   "extra": "Barbacoa de res · predet.: 1 porción (100 g) · Vas a agregar 435kcal 150 g Proteína 42.8 g Carbohidratos 2 "
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar coca cola en cena",
+   "ok": true,
+   "extra": "Coca-Cola · predet.: 1 porción (100 ml) · Vas a agregar 107kcal 355 ml Proteína 0 g Carbohidratos 26.6"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "registrar tortilla de maíz en colacion2",
+   "ok": true,
+   "extra": "Tortilla de maíz · predet.: 1 tortilla (24 g) · Vas a agregar 52kcal 24 g Proteína 1.4 g Carbohidratos 10.7 "
+  },
+  {
+   "seccion": "registro",
+   "nombre": "13 registros guardados",
+   "ok": true,
+   "extra": "13"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:173944: cantidadBase 236 = 2 × 118",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:173944 kcal: app 210.04 vs fuente 210.04",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:173944 proteina: app 2.57 vs fuente 2.57",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:173944 carbohidratos: app 53.81 vs fuente 53.81",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:173944 grasa: app 0.78 vs fuente 0.78",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:75042707: cantidadBase 250 = 250 × 1",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:75042707 kcal: app 119.75 vs fuente 119.70",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:75042707 proteina: app 7.80 vs fuente 7.80",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:75042707 carbohidratos: app 12.00 vs fuente 12.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:75042707 grasa: app 4.50 vs fuente 4.50",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:171287: cantidadBase 100 = 2 × 50",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:171287 kcal: app 143.00 vs fuente 143.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:171287 proteina: app 12.60 vs fuente 12.60",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:171287 carbohidratos: app 0.72 vs fuente 0.72",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:171287 grasa: app 9.51 vs fuente 9.51",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "caloria_recetas:licuado-platano: cantidadBase 383.8 = 1 × 383.8",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7500478002801: cantidadBase 30 = 30 × 1",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7500478002801 kcal: app 152.01 vs fuente 152.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7500478002801 proteina: app 1.00 vs fuente 1.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7500478002801 carbohidratos: app 19.00 vs fuente 19.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7500478002801 grasa: app 8.00 vs fuente 8.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036: cantidadBase 72 = 3 × 24",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 kcal: app 156.96 vs fuente 156.96",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 proteina: app 4.10 vs fuente 4.10",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 carbohidratos: app 32.11 vs fuente 32.11",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 grasa: app 2.05 vs fuente 2.05",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_fndds:2707396: cantidadBase 130 = 0.5 × 260",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_fndds:2707396 kcal: app 117.00 vs fuente 117.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_fndds:2707396 proteina: app 6.47 vs fuente 6.47",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_fndds:2707396 carbohidratos: app 17.68 vs fuente 17.68",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_fndds:2707396 grasa: app 2.61 vs fuente 2.61",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_branded:405016: cantidadBase 170 = 170 × 1",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_branded:405016 kcal: app 139.40 vs fuente 139.40",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_branded:405016 proteina: app 7.00 vs fuente 7.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_branded:405016 carbohidratos: app 22.95 vs fuente 22.95",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_branded:405016 grasa: app 2.50 vs fuente 2.50",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:168878: cantidadBase 158 = 1 × 158",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:168878 kcal: app 205.40 vs fuente 205.40",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:168878 proteina: app 4.25 vs fuente 4.25",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:168878 carbohidratos: app 44.56 vs fuente 44.56",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:168878 grasa: app 0.44 vs fuente 0.44",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "caloria_recetas:pozole-rojo-plato: cantidadBase 513 = 1 × 513",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "caloria_recetas:barbacoa-res: cantidadBase 150 = 150 × 1",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7501055341344: cantidadBase 355 = 355 × 1",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7501055341344 kcal: app 106.50 vs fuente 106.50",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7501055341344 proteina: app 0.00 vs fuente 0.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7501055341344 carbohidratos: app 26.63 vs fuente 26.63",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "off:7501055341344 grasa: app 0.00 vs fuente 0.00",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036: cantidadBase 24 = 1 × 24",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 kcal: app 52.32 vs fuente 52.32",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 proteina: app 1.37 vs fuente 1.37",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 carbohidratos: app 10.70 vs fuente 10.70",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "usda_sr_legacy:175036 grasa: app 0.68 vs fuente 0.68",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "total del día en la UI = suma de registros (2536)",
+   "ok": true,
+   "extra": "2536"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Desayuno en la UI (473 kcal)",
+   "ok": true,
+   "extra": "473 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Primera colación en la UI (445 kcal)",
+   "ok": true,
+   "extra": "445 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Almuerzo en la UI (413 kcal)",
+   "ok": true,
+   "extra": "413 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Comida en la UI (1046 kcal)",
+   "ok": true,
+   "extra": "1,046 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Cena en la UI (107 kcal)",
+   "ok": true,
+   "extra": "107 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "suma de Segunda colación en la UI (52 kcal)",
+   "ok": true,
+   "extra": "52 kcal"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "resumen del día: 404 kcal de más Consumidas 2,536 Meta 2,132 Cumplimiento 119 % Proteína 126 / 148 g 85 % de la meta Carbohidr. 320 / 239",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "editar cantidad: plátano 1.5 piezas = 177 g, 157.53 kcal",
+   "ok": true,
+   "extra": "177 g 157.53"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "cambiar unidad taza → 120 g: 108 kcal y sin porción",
+   "ok": true,
+   "extra": "{\"u\":\"g\",\"b\":120,\"k\":108}"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "eliminar Coca-Cola",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "deshacer eliminación",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "tras editar/eliminar quedan 12 registros",
+   "ok": true,
+   "extra": "12"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "deshacer \"Agregado\" desde la hoja",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "alimento propio editado (999 kcal)",
+   "ok": true,
+   "extra": "999"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "historial inmutable: el registro conserva 120 kcal y el nombre original",
+   "ok": true,
+   "extra": "{\"kcal\":120,\"proteina\":3,\"carbohidratos\":28,\"grasa\":0}"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "la UI del día sigue mostrando \"Gelatina auditoría, 200 g, 120 kcal\"",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "persistencia tras cerrar el navegador (registros/metas)",
+   "ok": true,
+   "extra": "{\"registros\":13,\"pesos\":1,\"metas\":1}"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "no vuelve a mostrar el asistente",
+   "ok": true,
+   "extra": "http://localhost:4173/"
+  },
+  {
+   "seccion": "registro",
+   "nombre": "la UI muestra los registros tras reabrir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "registro",
+   "nombre": "navigator.storage.persisted() = false",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "primera búsqueda (en frío, incluye descargar el índice base y arrancar el worker): 354 ms",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"plátano\" → esperado en top 5 (/^Plátano/)",
+   "ok": true,
+   "extra": "198 ms · Plátano | Plátano, crudo | Plátano, overripe, crudo | Plátano macho, maduro, frito | Plátano, horneado"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"tortilla de maíz\" → esperado en top 5 (/^Tortilla(,| de) maíz/)",
+   "ok": true,
+   "extra": "287 ms · Tortilla de maíz | Tortilla, maíz | Tortilla, maíz, de anaquel | Tortilla, maíz azul, Sakwavikaviki (Hopi) | Tortilla, lista para hornear o - frita, maíz, sin sal añadida"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"barbacoa\" → esperado en top 5 (/Barbacoa/)",
+   "ok": true,
+   "extra": "248 ms · Barbacoa de res | Barbacoa de borrego | Consomé de barbacoa | Taco de barbacoa de res | Taco de barbacoa de borrego"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"leche deslactosada lala\" → esperado en top 5 (/deslactosada/i)",
+   "ok": true,
+   "extra": "256 ms · Lala Deslactosada | Leche deslactosada | Leche deslactosada | Leche Lala Deslactosada | Leche fibra deslactosada LALA"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"coca cola\" → esperado en top 5 (/Coca/i)",
+   "ok": true,
+   "extra": "327 ms · Coca-Cola | Coca-Cola | Coca Cola | Coca-Cola | Coca Cola"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"huevo\" → esperado en top 5 (/^Huevo entero|^Huevo cocido|^Huevo, entero/)",
+   "ok": true,
+   "extra": "310 ms · Huevos a la mexicana | Huevo entero, crudo | Huevo, entero, crudo | Huevos rancheros | Huevo frito"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"arroz\" → esperado en top 5 (/^Arroz blanco, cocido|^Arroz blanco$|^Arroz, blanco/)",
+   "ok": true,
+   "extra": "210 ms · Arroz blanco a la mexicana | Arroz blanco, crudo | Arroz blanco, cocido | Arroz con leche | Arroz con gandules"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"frijoles refritos\" → esperado en top 5 (/^Frijoles refritos/)",
+   "ok": true,
+   "extra": "153 ms · Frijoles refritos | Frijoles refritos caseros con manteca | Frijoles refritos (enlatados) | Frijoles refritos (restaurante) | Frijoles refritos con carne"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"pozole\" → esperado en top 5 (/[Pp]ozole/)",
+   "ok": true,
+   "extra": "453 ms · Pozole rojo de cerdo (plato servido) | Sopa, pozole | Pozole Rojo | Maíz para pozole Ovarb | Pozole white hominy"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"licuado de plátano\" → esperado en top 5 (/^Licuado de plátano/)",
+   "ok": true,
+   "extra": "315 ms · Licuado de plátano | Licuado de avena | Licuado de jugo de fruta, ODWALLA, plátano de fresa | Licuado de jugo de fruta, jugo natural, plátano de fresa | Batido de fresa y plátano (smoothie)"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"jitomate\" → esperado en top 5 (/^Jitomate/)",
+   "ok": true,
+   "extra": "233 ms · Jitomate, crudo | Jitomate, cocido | Jitomate, crudo | Jitomate, fresco, cocido | Jitomate seco"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"elote\" → esperado en top 5 (/^Elote|maíz dulce/i)",
+   "ok": true,
+   "extra": "300 ms · Elote / maíz dulce, crudo | Maíz, crudo | Maíz pozolero, cocido | Maíz, granos cocidos | Maíz congelado, cocido"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"chícharo\" → esperado en top 5 (/^Chícharo/)",
+   "ok": true,
+   "extra": "293 ms · Chícharos, crudo | Chícharos en lata | Chícharos congelados, cocidos | Chícharos / chícharos, crudos | Chícharos / chícharos, cocidos"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"cacahuate\" → esperado en top 5 (/^Cacahuate/)",
+   "ok": true,
+   "extra": "213 ms · Cacahuate, crudo | Cacahuate, hervido | Cacahuates (maní) | Cacahuate, español, crudo | Cacahuate, valencia, crudo"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"bolillo\" → esperado en top 5 (/bolillo/i)",
+   "ok": true,
+   "extra": "257 ms · Pan francés, natural | Bollo, mexicano, bolillo | Pan, francés o viena | Pan francés, escolar | Pan francés, congelado"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"telera\" → esperado en top 5 (/^Telera/)",
+   "ok": true,
+   "extra": "166 ms · Telera (pan para torta) | Telera | Pan, tipo de panqué, sartén de torta salvadoreña | Wheat telera | Telera rolls, telera"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"pan dulce\" → esperado en top 5 (/^Pan dulce/)",
+   "ok": true,
+   "extra": "250 ms · Pan dulce, sin cobertura | Pan dulce, sin especificar | Pan dulce, con pasas y glaseado | Pan dulce, con cobertura de azúcar | Pan, pan dulce, pan de levadura dulce"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"concha\" → esperado en top 5 (/^Concha( \\(pan dulce\\))?$|^Pan dulce/)",
+   "ok": true,
+   "extra": "165 ms · Concha rellena, con pollo, con salsa de jitomate | Concha rellena, rellena de queso, sin salsa | Concha rellena, rellena de queso, con salsa de carne | Concha rellena, con pescado y/o mariscos, con salsa de jitomate | Pan dulce, con cobertura de azúcar"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"queso panela\" → esperado en top 5 (/panela|Queso fresco/i)",
+   "ok": true,
+   "extra": "166 ms · Queso panela | Queso Panela | Queso panela | Queso Panela | Queso Panela"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"queso oaxaca\" → esperado en top 5 (/oaxaca|asadero/i)",
+   "ok": true,
+   "extra": "232 ms · Queso asadero | Queso, oaxaca, sólido | Quesadilla de maíz con queso (tipo Oaxaca) | Queso Oaxaca | Queso Oaxaca"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"chorizo\" → esperado en top 5 (/^Chorizo/)",
+   "ok": true,
+   "extra": "164 ms · Chorizo, crudo | Chorizo | Sope de chorizo | Chorizo | Chorizo"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"carnitas\" → esperado en top 5 (/carnitas/i)",
+   "ok": true,
+   "extra": "167 ms · Taco de carnitas | Carne de cerdo, carnitas | Carnitas, orange | Carnitas seasoned pork | Carnitas Atun Dolores"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"birria\" → esperado en top 5 (/^Birria/)",
+   "ok": true,
+   "extra": "165 ms · Birria de res | Birria con consomé (plato) | Taco de birria | Birria De Res | Nissin Cup Noodles birria 70g"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"tacos al pastor\" → esperado en top 5 (/pastor/i)",
+   "ok": true,
+   "extra": "153 ms · Taco al pastor | Soya. Pastor | Carne Al Pastor | Carne al Pastor | Carne De Trompo"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"quesadilla\" → esperado en top 5 (/^Quesadilla/)",
+   "ok": true,
+   "extra": "147 ms · Quesadilla de harina con queso | Quesadilla de queso | Quesadilla de pollo | Quesadilla, pollo | Quesadilla, huevo"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"agua de jamaica\" → esperado en top 5 (/^Agua de jamaica/)",
+   "ok": true,
+   "extra": "217 ms · Agua de jamaica | Flor de jamaica, cruda | Aguas frescas (Jamaica) | Agua con jugo arándano-jamaica | Jamaica (Agua embotellada sabor Jamaica)"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"horchata\" → esperado en top 5 (/^Horchata/)",
+   "ok": true,
+   "extra": "197 ms · Horchata, con agua | Horchata, con leche | Bebida, horchata, como served en restaurante | Horchata | Horchata"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"atún en agua\" → esperado en top 5 (/^Atún/i)",
+   "ok": true,
+   "extra": "242 ms · Atún en lata al natural | Atún blanco en lata al natural | Atún en agua | ATÚN EN AGUA | atun en agua"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"yogur griego\" → esperado en top 5 (/^Yogur,? griego/i)",
+   "ok": true,
+   "extra": "214 ms · Yogur, griego, natural, descremado | Yogur, griego, natural, leche entera | Yogur, griego, natural, leche entera | Yogur, griego, entero, natural, CHOBANI | Yogur, griego, con avena"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"avena\" → esperado en top 5 (/^Avena/)",
+   "ok": true,
+   "extra": "231 ms · Avena, cruda | Avena, inflada | Avena cocida (con agua) | Avena en hojuelas, cruda | Avena, multigrano"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"platno\" → esperado en top 5 (/^Plátano/)",
+   "ok": true,
+   "extra": "150 ms · Plátano | Plátano, crudo | Plátano, overripe, crudo | Plátano macho, maduro, frito | Plátano, horneado"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"tortila\" → esperado en top 5 (/^Tortilla/)",
+   "ok": true,
+   "extra": "151 ms · Tortilla de maíz | Tortilla de harina | Tortilla, maíz | Tortilla, harina | Tortilla, maíz, de anaquel"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"quezo oaxaca\" → esperado en top 5 (/oaxaca|asadero/i)",
+   "ok": true,
+   "extra": "149 ms · Queso asadero | Queso, oaxaca, sólido | Quesadilla de maíz con queso (tipo Oaxaca) | Queso Oaxaca | Queso Oaxaca"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "\"jamon de pavo\" → esperado en top 5 (/pavo/i)",
+   "ok": true,
+   "extra": "199 ms · Jamón, pavo, rebanado, extra magro, empacado o salchichonería | Jamón de pavo, empacado o salchichonería, carnes frías | Jamón de pavo | JAMÓN DE PAVO | Jamon de pavo"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "latencia (tecleo → resultados pintados, incluye debounce de 120 ms y marcas por red local): mediana 214 ms, p95 327 ms, máx 453 ms",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "latencia mediana < 600 ms",
+   "ok": true,
+   "extra": "214 ms"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "hay un Web Worker del catálogo (assets/worker-*.js)",
+   "ok": true,
+   "extra": "http://localhost:4173/assets/worker-CfJx6p90.js"
+  },
+  {
+   "seccion": "busqueda",
+   "nombre": "el índice base se descarga dentro del worker (no en el hilo principal)",
+   "ok": true,
+   "extra": "worker: 15 archivos base; principal: 0"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XSS: el nombre con HTML se muestra como texto y no se ejecuta (Mis alimentos)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XSS: tampoco se ejecuta en el día",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "nombres de archivo",
+   "ok": true,
+   "extra": "caloria-respaldo-2026-11-17.json, caloria-comidas-2026-11-17.csv, caloria-peso-2026-11-17.csv, caloria-2026-11-17.xlsx"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "tras exportar JSON se anota la fecha del último respaldo",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "JSON: formato, versión, conteos",
+   "ok": true,
+   "extra": "{\"perfil\":1,\"config\":0,\"metas\":1,\"registros\":15,\"alimentosUsuario\":3,\"recetas\":0,\"pesos\":1,\"usos\":17,\"favoritos\":0,\"cacheAlimentos\":12}"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "JSON: suma SHA-256 verificable fuera de la app",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV: UTF-8 con BOM y CRLF",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV: una fila por registro",
+   "ok": true,
+   "extra": "15 filas / 15 registros"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV: suma de kcal = BD (redondeo a 2 decimales)",
+   "ok": true,
+   "extra": "2651.81 vs 2651.81"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV injection: el nombre \"=HYPERLINK…\" se exporta con apóstrofo",
+   "ok": true,
+   "extra": "'=HYPERLINK(\"http://ejemplo.invalid\",\"clic\")"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV: acentos intactos (Plátano)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "CSV peso: filas = pesos",
+   "ok": true,
+   "extra": "1 / 1; cab: Fecha|Peso (kg)|Media móvil 7 días (kg)|Tendencia (kg)|Nota"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XLSX: hojas esperadas",
+   "ok": true,
+   "extra": "Comidas, Resumen diario, Peso, Recetas, Alimentos propios"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XLSX Comidas: filas y suma de kcal = BD",
+   "ok": true,
+   "extra": "15 filas, 2651.81 kcal"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XLSX: ninguna celda es fórmula (nombre \"=HYPERLINK…\" queda como texto)",
+   "ok": true,
+   "extra": "0 fórmulas"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XLSX Resumen diario: Fecha | Alimentos registrados | Calorías (kcal) | Proteína (g) | Carbohidratos (g) | Grasa (g) | Fibra (g) | Sodio (mg) | Meta (kcal) | % de la meta | Cumple (±10 %) → [\"2026-11-17T00:00:00.000Z\",15,2651.81,117.23,372.89,78.42,26.04,2836.87,2132,124.38,\"No\"]",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "XLSX Resumen diario: el total de hoy = BD",
+   "ok": true,
+   "extra": "[\"2026-11-17T00:00:00.000Z\",15,2651.81,117.23,372.89,78.42,26.04,2836.87,2132,124.38,\"No\"]"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "importar (reemplazar) en perfil nuevo",
+   "ok": true,
+   "extra": "caloria-respaldo-2026-11-17.json Creado el martes 17 de noviembre de 2026. Contiene: 1 metas 15 alimentos registrados 3 alimentos propios 1 registros de peso → Respaldo importado: 50 elementos restaurados"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "reemplazar deja exactamente los registros del respaldo",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "la app muestra el día restaurado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "registro nuevo en el perfil restaurado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "combinar el mismo respaldo no duplica ni borra",
+   "ok": true,
+   "extra": "16 → 16; Respaldo importado: 0 elementos agregados"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "combinar agrega lo nuevo (3 registros + 1 peso) y conserva lo existente",
+   "ok": true,
+   "extra": "Respaldo importado: 0 elementos agregados; 19"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: no es JSON",
+   "ok": true,
+   "extra": "El archivo no es un respaldo válido (no se pudo leer como JSON)."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: JSON de otra app",
+   "ok": true,
+   "extra": "El archivo no es un respaldo de CALORÍA."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: suma de verificación alterada",
+   "ok": true,
+   "extra": "El respaldo está dañado o fue modificado (la suma de verificación no coincide)."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: cantidad negativa (firmado)",
+   "ok": true,
+   "extra": "Datos inválidos en registros[0]: cantidad: Debe ser mayor que cero."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: versión futura",
+   "ok": true,
+   "extra": "El respaldo es de una versión más nueva de la app (99). Actualiza CALORÍA e inténtalo de nuevo."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo inválido rechazado: tabla que no es lista (firmado)",
+   "ok": true,
+   "extra": "Datos inválidos: \"registros\" debe ser una lista."
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "respaldo malicioso firmado: Respaldo importado: 50 elementos restaurados",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "prototype pollution: Object.prototype intacto tras importar",
+   "ok": true,
+   "extra": "{}"
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "HTML/script en nombres importados no se ejecuta",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "respaldo",
+   "nombre": "el perfil importado no arrastra claves \"__proto__\"",
+   "ok": true,
+   "extra": "edad,sexo,estaturaCm,pesoActualKg,pesoInicialKg,pesoObjetivoKg,actividad,objetivo,ritmoKgSemana"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "zona horaria: hoy() de la app = fecha local de México",
+   "ok": true,
+   "extra": "2026-11-17 / 2026-11-17"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "sembrados con la API de src/bd: 126 registros y 35 pesos en 532 ms",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 7 días: promedio 1829 kcal",
+   "ok": true,
+   "extra": "1829"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 7 días: días registrados 6 de 7",
+   "ok": true,
+   "extra": "Días registrados 6de 7"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 7 días: cumplimiento 2/6 = 33 %",
+   "ok": true,
+   "extra": "33 % (2 de 6 días a ±10 %)"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 7 días: meta promedio 1800 (historial de metas)",
+   "ok": true,
+   "extra": "1800"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 7 días: racha más larga 6, actual 0",
+   "ok": true,
+   "extra": "6 / 0"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 30 días: promedio 1832 kcal",
+   "ok": true,
+   "extra": "1832"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 30 días: días registrados 26 de 30",
+   "ok": true,
+   "extra": "Días registrados 26de 30"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 30 días: cumplimiento 13/26 = 50 %",
+   "ok": true,
+   "extra": "50 % (13 de 26 días a ±10 %)"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 30 días: meta promedio 1800 (historial de metas)",
+   "ok": true,
+   "extra": "1800"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 30 días: racha más larga 8, actual 0",
+   "ok": true,
+   "extra": "8 / 0"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 3 meses: promedio 1834 kcal",
+   "ok": true,
+   "extra": "1834"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 3 meses: días registrados 63 de 90",
+   "ok": true,
+   "extra": "Días registrados 63de 90"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 3 meses: cumplimiento 31/63 = 49 %",
+   "ok": true,
+   "extra": "49 % (31 de 63 días a ±10 %)"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 3 meses: meta promedio 1914 (historial de metas)",
+   "ok": true,
+   "extra": "1914"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "estadísticas 3 meses: racha más larga 8, actual 0",
+   "ok": true,
+   "extra": "8 / 0"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "peso: promedios semanales (lunes–domingo) = cálculo independiente",
+   "ok": true,
+   "extra": "UI 81.1, 81.4, 81.7, 82, 82.3 | esperado 81.1, 81.4, 81.7, 82.0, 82.3"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "peso: promedios mensuales = cálculo independiente",
+   "ok": true,
+   "extra": "UI 81.3, 82.3, 83.5 | esperado 81.26, 82.29, 83.49"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "calendario: 15 días del mes marcados con kcal",
+   "ok": true,
+   "extra": "15; ej.: domingo 1 de noviembre de 2026, por debajo de tu meta, 1,485 kcal, peso 81.5 kg"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "calendario, resumen del mes: Resumen del mes Días registrados 15 / 17 Promedio diario 1,820 kcal Cumplimiento 47 %",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "historial",
+   "nombre": "editar registro de un día pasado: queda en esa fecha con 100 g = 89 kcal",
+   "ok": true,
+   "extra": "[{\"c\":\"desayuno\",\"g\":100,\"k\":89,\"fecha\":\"2026-11-12\"},{\"c\":\"comida\",\"g\":1479,\"k\":1316.31,\"fecha\":\"2026-11-12\"}]"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "el resumen del día pasado se actualiza",
+   "ok": true,
+   "extra": "1405 / 1405.31"
+  },
+  {
+   "seccion": "historial",
+   "nombre": "mover un registro pasado a otra comida",
+   "ok": true,
+   "extra": "cena"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "manifest: campos requeridos",
+   "ok": true,
+   "extra": "{\"name\":\"CALORÍA\",\"start_url\":\"./\",\"scope\":\"./\",\"display\":\"standalone\",\"id\":\"./\"}"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "ícono pwa-192x192.png existe y mide 192x192 (any)",
+   "ok": true,
+   "extra": "real 192x192"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "ícono pwa-512x512.png existe y mide 512x512 (any)",
+   "ok": true,
+   "extra": "real 512x512"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "ícono maskable-512x512.png existe y mide 512x512 (maskable)",
+   "ok": true,
+   "extra": "real 512x512"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "ícono favicon.svg existe y mide any (any)",
+   "ok": true,
+   "extra": "real any"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "manifest: ícono maskable 512 y \"any\" 192/512",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "atajo \"Registrar comida\" con ícono existente",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "atajo \"Registrar peso\" con ícono existente",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "precache sin catalogo/ (ni marcas ni base)",
+   "ok": true,
+   "extra": "47 URL únicas"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "precache: 53 entradas (47 únicas), 2180 KiB sin comprimir; mayor: assets/exceljs.min-DqPyZ1yt.js 908 KiB, assets/Graficas-BXGSImkj.js 401 KiB, assets/index-DrFJv9Zf.js 244 KiB",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "precache < 3 MiB",
+   "ok": true,
+   "extra": "2.13 MiB"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "CDP getAppManifest sin errores",
+   "ok": true,
+   "extra": "[]"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "CDP getInstallabilityErrors: instalable",
+   "ok": true,
+   "extra": "[]"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "el service worker controla la página",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "en línea: búsqueda funciona",
+   "ok": true,
+   "extra": "Plátano | Plátano, crudo | Plátano, overripe, crudo | Plátano macho, maduro, frito | Plátano, horneado"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "precarga en segundo plano del catálogo base (12 detalles en Cache Storage)",
+   "ok": true,
+   "extra": "12 en 3035 ms"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "Cache Storage tras primera carga: caloria-catalogo-manifiesto=1, workbox-precache-v2-http://localhost:4173/=47, caloria-catalogo-20261117061151=29, caloria-catalogo-marcas=14, caloria-catalogo-base=12",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: la app abre (shell precacheado)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: el catálogo base busca (genéricos y mexicanos)",
+   "ok": true,
+   "extra": "Frijoles refritos | Frijoles refritos caseros con manteca | Frijoles refritos (enlatados) | Frijoles refritos (restaurante) | Frijoles refritos con carne"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: aviso de marcas faltantes",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: \"coca cola\" degrada a genéricos con aviso",
+   "ok": true,
+   "extra": "Refresco de cola | Refresco de cola light | Refresco de limón-lima | Refresco, refresco de crema | Refresco, root beer"
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: se puede abrir y registrar un alimento base no usado antes",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pwa",
+   "nombre": "sin conexión: registro guardado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "label-content-name-mismatch(serious,15) li[aria-labelledby=\"comida-desayuno\"] > ul > li:nth-child(1) > .min-h-14.text-left.hover\\:bg-hundido\\/60"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/calendario: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/calendario: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "color-contrast(serious,13) .contents[role=\"row\"]:nth-child(4) > .text-tinta-3\\/60.relative.aspect-\\[0\\.86\\]:nth-child(3) > .text-\\[0\\.95rem\\].leading-none.cifras ; label-content-name-mismatch(serious,1) .text-tinta"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/peso: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/peso: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/estadisticas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/estadisticas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/perfil: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/perfil: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "color-contrast(serious,1) .mt-1.text-xs"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/recetas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/recetas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/alimentos: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/alimentos: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/alimentos/nuevo: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/alimentos/nuevo: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/respaldo: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/respaldo: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/fuentes: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/fuentes: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro #/mas/acerca: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil #/mas/acerca: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro hoja de registro con resultados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil hoja de registro: sin graves (fuera de pendientes)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/claro panel de cantidad",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe movil panel de cantidad: sin graves (fuera de pendientes)",
+   "ok": true,
+   "extra": "color-contrast(serious,2) .font-normal"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/oscuro #/: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/oscuro #/estadisticas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/oscuro #/mas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/oscuro hoja de registro con resultados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "movil/oscuro panel de cantidad",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "label-content-name-mismatch(serious,15) li[aria-labelledby=\"comida-desayuno\"] > ul > li:nth-child(1) > .min-h-14.text-left.hover\\:bg-hundido\\/60"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/calendario: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/calendario: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "color-contrast(serious,13) .contents[role=\"row\"]:nth-child(4) > .text-tinta-3\\/60.relative.aspect-\\[0\\.86\\]:nth-child(3) > .text-\\[0\\.95rem\\].leading-none.cifras ; label-content-name-mismatch(serious,1) .text-tinta"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/peso: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/peso: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/estadisticas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/estadisticas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": "color-contrast(serious,2) .bg-proteina.text-white.rounded-\\[4px\\]"
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/perfil: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/perfil: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/recetas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/recetas: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/alimentos: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/alimentos: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/alimentos/nuevo: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/alimentos/nuevo: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/respaldo: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/respaldo: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/fuentes: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/fuentes: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro #/mas/acerca: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio #/mas/acerca: sin violaciones graves/críticas (fuera de las pendientes documentadas)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro hoja de registro con resultados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio hoja de registro: sin graves (fuera de pendientes)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/claro panel de cantidad",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe escritorio panel de cantidad: sin graves (fuera de pendientes)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/oscuro #/: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/oscuro #/estadisticas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/oscuro #/mas: sin desborde horizontal ni textos encimados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/oscuro hoja de registro con resultados",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "escritorio/oscuro panel de cantidad",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe PENDIENTES (documentadas): movil #/: label-content-name-mismatch ×15 ; movil #/calendario: color-contrast ×13 ; movil #/calendario: label-content-name-mismatch ×1 ; movil #/mas/perfil: color-contrast ×1 ; movil panel: color-contrast ×2 ; escritorio #/: label-content-name-mismatch ×15 ; escritorio #/calendario: color-contrast ×13 ; escritorio #/calendario: label-content-name-mismatch ×1 ; escritorio #/estadisticas: color-contrast ×2",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "pantallas",
+   "nombre": "axe moderadas/menores: ninguna",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"-5\" rechazada (botón deshabilitado)",
+   "ok": true,
+   "extra": "Vas a agregar —kcal Proteína — Carbohidratos — Gra La cantidad debe ser un número mayor que cero."
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"0\" rechazada (botón deshabilitado)",
+   "ok": true,
+   "extra": "Vas a agregar —kcal Proteína — Carbohidratos — Gra La cantidad debe ser un número mayor que cero."
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"abc\" rechazada (botón deshabilitado)",
+   "ok": true,
+   "extra": "Vas a agregar —kcal Proteína — Carbohidratos — Gra "
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"\" rechazada (botón deshabilitado)",
+   "ok": true,
+   "extra": "Vas a agregar —kcal Proteína — Carbohidratos — Gra "
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"1,5\": botón HABILITADO · Vas a agregar 158kcal 177 g Proteína 1.9 g Carbohi",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"1e3\": botón deshabilitado · Vas a agregar —kcal Proteína — Carbohidratos — Gra",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"999999\": botón deshabilitado · Vas a agregar —kcal Proteína — Carbohidratos — Gra",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad \"1e300\": botón deshabilitado · Vas a agregar —kcal Proteína — Carbohidratos — Gra",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cantidad absurda (999 999 piezas ≈ 118 t de plátano) es rechazada o advertida",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "1e300 rechazado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "peso \"-3\" rechazado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "peso \"0\" rechazado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "peso \"1000\" rechazado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "peso \"abc\" rechazado",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "otra pestaña pide versión 9999 de la BD: {\"bloqueado\":false,\"abierto\":true}",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "la app tras el cambio de versión en otra pestaña: aviso = \"Agregado a Cena: Mango\"",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "BD reemplazada por otra pestaña: la app avisa en vez de fallar en silencio",
+   "ok": true,
+   "extra": "Agregado a Cena: Mango"
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "sin IndexedDB, la app muestra: \"No se pueden guardar datos Este navegador no permite que CALORÍA use su almacenamiento local (IndexedDB), por eso no puede guardar tus comidas ni tu peso. Suele ocurrir en modo privado o con el almace\"",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "sin IndexedDB: la app no queda en blanco y explica el problema",
+   "ok": true,
+   "extra": "No se pueden guardar datos Este navegador no permite que CALORÍA use su almacenamiento local (IndexedDB), por eso no puede guardar tus comidas ni tu peso. Suele ocurrir en modo privado o con el almace"
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "errores registrados sin IndexedDB: ",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cuota llena (5850061 B + 1 KiB): aviso = \"El almacenamiento del dispositivo está lleno. Libera espacio o exporta un respaldo y borra datos antiguos.\"",
+   "ok": true,
+   "nota": true,
+   "extra": ""
+  },
+  {
+   "seccion": "robustez",
+   "nombre": "cuota llena: se informa al usuario (no falla en silencio)",
+   "ok": true,
+   "extra": "El almacenamiento del dispositivo está lleno. Libera espacio o exporta un respaldo y borra datos antiguos."
+  }
+ ],
+ "errores": [
+  "pwa console: Failed to load resource: net::ERR_FAILED",
+  "pwa console: Failed to load resource: net::ERR_FAILED",
+  "pwa console: Failed to load resource: net::ERR_FAILED",
+  "pwa console: Failed to load resource: net::ERR_FAILED",
+  "pwa console: Failed to load resource: net::ERR_FAILED",
+  "pwa console: Failed to load resource: net::ERR_FAILED"
+ ]
+}

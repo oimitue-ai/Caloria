@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+/* ─────────────── CALORÍA · sistema visual ───────────────
+   Paleta: azul talavera (acción), cempasúchil (acento de marca),
+   y los macros con colores de comida mexicana: jamaica (proteína),
+   maíz (carbohidratos) y aguacate (grasa).
+   Tipografía: Bricolage Grotesque (cifras grandes y títulos) +
+   Atkinson Hyperlegible Next (texto). Los dígitos salen de Bricolage en toda la app:
+   el cero cruzado de Atkinson se confunde con "Ø" en cifras como "0 %". */
+
+@font-face {
+  font-family: 'Bricolage';
+  src: url('./ui/fuentes/bricolage-grotesque-wght.woff2') format('woff2-variations');
+  font-weight: 200 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson';
+  src: url('./ui/fuentes/atkinson-400.woff2') format('woff2');
+  font-weight: 400;
+  unicode-range: U+0000-002F, U+003A-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson';
+  src: url('./ui/fuentes/atkinson-700.woff2') format('woff2');
+  font-weight: 600 700;
+  unicode-range: U+0000-002F, U+003A-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  font-display: swap;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Atkinson', 'Bricolage', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Bricolage', 'Atkinson', ui-sans-serif, system-ui, sans-serif;
+
+  --color-papel: var(--c-papel);
+  --color-superficie: var(--c-superficie);
+  --color-hundido: var(--c-hundido);
+  --color-borde: var(--c-borde);
+  --color-tinta: var(--c-tinta);
+  --color-tinta-2: var(--c-tinta-2);
+  --color-tinta-3: var(--c-tinta-3);
+  --color-talavera: var(--c-talavera);
+  --color-talavera-fuerte: var(--c-talavera-fuerte);
+  --color-talavera-tinte: var(--c-talavera-tinte);
+  --color-sobre-talavera: var(--c-sobre-talavera);
+  --color-cempasuchil: var(--c-cempasuchil);
+  --color-cempasuchil-texto: var(--c-cempasuchil-texto);
+  --color-cempasuchil-tinte: var(--c-cempasuchil-tinte);
+  --color-proteina: var(--c-proteina);
+  --color-carbos: var(--c-carbos);
+  --color-grasa: var(--c-grasa);
+  --color-grafica-kcal: var(--c-grafica-kcal);
+  --color-exceso: var(--c-exceso);
+  --color-exceso-tinte: var(--c-exceso-tinte);
+  --color-exito: var(--c-exito);
+  --color-exito-tinte: var(--c-exito-tinte);
+
+  --radius-hoja: 1.75rem;
+  --radius-tarjeta: 1.25rem;
+  --radius-control: 0.75rem;
+
+  --ease-salida: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+:root {
+  --c-papel: #f3f5f9;
+  --c-superficie: #ffffff;
+  --c-hundido: #e9edf4;
+  --c-borde: #dbe1eb;
+  --c-tinta: #16213a;
+  --c-tinta-2: #47536e;
+  --c-tinta-3: #636d88;
+  --c-talavera: #2340b8;
+  --c-talavera-fuerte: #1a3196;
+  --c-talavera-tinte: #e5eafb;
+  --c-sobre-talavera: #ffffff;
+  --c-cempasuchil: #f2a93b;
+  --c-cempasuchil-texto: #8a5200;
+  --c-cempasuchil-tinte: #fdf1dc;
+  /* Serie de gráficas validada (CVD/contraste) con el validador de dataviz */
+  --c-proteina: #b8336a;
+  --c-carbos: #c08400;
+  --c-grasa: #1d7a55;
+  --c-grafica-kcal: #2340b8;
+  --c-grafica-meta: #47536e;
+  --c-exceso: #c2361f;
+  --c-exceso-tinte: #fde8e4;
+  --c-exito: #2a7a4b;
+  --c-exito-tinte: #e2f3e8;
+  --sombra-flotante: 0 10px 30px -12px rgb(22 33 58 / 0.35);
+  color-scheme: light;
+}
+
+.dark {
+  --c-papel: #0c1221;
+  --c-superficie: #141c30;
+  --c-hundido: #1c2640;
+  --c-borde: #2a3552;
+  --c-tinta: #e9edf7;
+  --c-tinta-2: #b0b9ce;
+  --c-tinta-3: #8e98b1;
+  --c-talavera: #8fa3ff;
+  --c-talavera-fuerte: #b3c1ff;
+  --c-talavera-tinte: #1f2b57;
+  --c-sobre-talavera: #0c1221;
+  --c-cempasuchil: #f5b453;
+  --c-cempasuchil-texto: #f5b453;
+  --c-cempasuchil-tinte: #3a2a10;
+  --c-proteina: #d65a8c;
+  --c-carbos: #bd8a14;
+  --c-grasa: #24966a;
+  --c-grafica-kcal: #6f86ea;
+  --c-grafica-meta: #b0b9ce;
+  --c-exceso: #ff8c74;
+  --c-exceso-tinte: #3d1d18;
+  --c-exito: #74d39c;
+  --c-exito-tinte: #15332a;
+  --sombra-flotante: 0 12px 30px -10px rgb(0 0 0 / 0.6);
+  color-scheme: dark;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-papel text-tinta font-sans antialiased;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-feature-settings: 'tnum' 0;
+    overscroll-behavior-y: none;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 3px solid var(--c-talavera);
+    outline-offset: 2px;
+    border-radius: 0.5rem;
+  }
+  button, [role='button'], a, input, select, textarea, label {
+    touch-action: manipulation;
+  }
+  input, select, textarea {
+    font-size: 1rem;
+  }
+  ::selection {
+    background: var(--c-talavera-tinte);
+  }
+}
+
+@layer utilities {
+  .cifras {
+    font-variant-numeric: tabular-nums;
+  }
+  .pt-seguro { padding-top: env(safe-area-inset-top); }
+  .pb-seguro { padding-bottom: env(safe-area-inset-bottom); }
+  .pl-seguro { padding-left: env(safe-area-inset-left); }
+  .pr-seguro { padding-right: env(safe-area-inset-right); }
+  .sombra-flotante { box-shadow: var(--sombra-flotante); }
+  .sin-barra::-webkit-scrollbar { display: none; }
+  .sin-barra { scrollbar-width: none; }
+}
+
+@keyframes subir-hoja {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+@keyframes aparecer {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes aviso-entra {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.anim-hoja { animation: subir-hoja 280ms var(--ease-salida); }
+.anim-velo { animation: aparecer 200ms ease-out; }
+.anim-aviso { animation: aviso-entra 220ms var(--ease-salida); }
+.anim-dialogo { animation: aviso-entra 200ms var(--ease-salida); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

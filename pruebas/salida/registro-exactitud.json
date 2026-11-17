@@ -1,0 +1,578 @@
+{
+ "tabla": [
+  {
+   "id": "usda_sr_legacy:173944",
+   "nombre": "Plátano",
+   "cantidad": "2 1 pieza mediano (7\" a 7 - 7/8\" largo) (118 g)",
+   "cantidadBase": 236,
+   "baseEsperada": 236,
+   "kcal": {
+    "app": 210.04,
+    "fuente": 210.04,
+    "por100App": 89,
+    "por100Fuente": 89
+   },
+   "proteina": {
+    "app": 2.57,
+    "fuente": 2.57,
+    "por100App": 1.09,
+    "por100Fuente": 1.09
+   },
+   "carbohidratos": {
+    "app": 53.81,
+    "fuente": 53.81,
+    "por100App": 22.8,
+    "por100Fuente": 22.8
+   },
+   "grasa": {
+    "app": 0.78,
+    "fuente": 0.78,
+    "por100App": 0.33,
+    "por100Fuente": 0.33
+   },
+   "descripcionFuente": "Bananas, raw"
+  },
+  {
+   "id": "off:75042707",
+   "nombre": "Leche deslactosada",
+   "cantidad": "250 ml",
+   "cantidadBase": 250,
+   "baseEsperada": 250,
+   "kcal": {
+    "app": 119.75,
+    "fuente": 119.7,
+    "por100App": 47.9,
+    "por100Fuente": 47.88
+   },
+   "proteina": {
+    "app": 7.8,
+    "fuente": 7.8,
+    "por100App": 3.12,
+    "por100Fuente": 3.12
+   },
+   "carbohidratos": {
+    "app": 12,
+    "fuente": 12,
+    "por100App": 4.8,
+    "por100Fuente": 4.8
+   },
+   "grasa": {
+    "app": 4.5,
+    "fuente": 4.5,
+    "por100App": 1.8,
+    "por100Fuente": 1.8
+   },
+   "descripcionFuente": "Leche deslactosada"
+  },
+  {
+   "id": "usda_sr_legacy:171287",
+   "nombre": "Huevo entero, crudo",
+   "cantidad": "2 1 pieza grande (50 g)",
+   "cantidadBase": 100,
+   "baseEsperada": 100,
+   "kcal": {
+    "app": 143,
+    "fuente": 143,
+    "por100App": 143,
+    "por100Fuente": 143
+   },
+   "proteina": {
+    "app": 12.6,
+    "fuente": 12.6,
+    "por100App": 12.6,
+    "por100Fuente": 12.6
+   },
+   "carbohidratos": {
+    "app": 0.72,
+    "fuente": 0.72,
+    "por100App": 0.72,
+    "por100Fuente": 0.72
+   },
+   "grasa": {
+    "app": 9.51,
+    "fuente": 9.51,
+    "por100App": 9.51,
+    "por100Fuente": 9.51
+   },
+   "descripcionFuente": "Egg, whole, raw, fresh"
+  },
+  {
+   "id": "caloria_recetas:licuado-platano",
+   "nombre": "Licuado de plátano",
+   "cantidad": "1 1 vaso (licuado completo) (384 g)",
+   "cantidadBase": 383.8,
+   "baseEsperada": 383.8,
+   "fuente": "receta (ver tabla de recetas)"
+  },
+  {
+   "id": "off:7500478002801",
+   "nombre": "Cremax sabor a chocolate (Galletas de chocolate)",
+   "cantidad": "30 g",
+   "cantidadBase": 30,
+   "baseEsperada": 30,
+   "kcal": {
+    "app": 152.01,
+    "fuente": 152,
+    "por100App": 506.7,
+    "por100Fuente": 506.6666666666667
+   },
+   "proteina": {
+    "app": 1,
+    "fuente": 1,
+    "por100App": 3.33,
+    "por100Fuente": 3.3333333333333335
+   },
+   "carbohidratos": {
+    "app": 19,
+    "fuente": 19,
+    "por100App": 63.33,
+    "por100Fuente": 63.333333333333336
+   },
+   "grasa": {
+    "app": 8,
+    "fuente": 8,
+    "por100App": 26.67,
+    "por100Fuente": 26.666666666666668
+   },
+   "descripcionFuente": "Cremax sabor a chocolate"
+  },
+  {
+   "id": "usda_sr_legacy:175036",
+   "nombre": "Tortilla de maíz",
+   "cantidad": "3 1 tortilla (24 g)",
+   "cantidadBase": 72,
+   "baseEsperada": 72,
+   "kcal": {
+    "app": 156.96,
+    "fuente": 156.96,
+    "por100App": 218,
+    "por100Fuente": 218
+   },
+   "proteina": {
+    "app": 4.1,
+    "fuente": 4.1,
+    "por100App": 5.7,
+    "por100Fuente": 5.7
+   },
+   "carbohidratos": {
+    "app": 32.11,
+    "fuente": 32.11,
+    "por100App": 44.6,
+    "por100Fuente": 44.6
+   },
+   "grasa": {
+    "app": 2.05,
+    "fuente": 2.05,
+    "por100App": 2.85,
+    "por100Fuente": 2.85
+   },
+   "descripcionFuente": "Tortillas, ready-to-bake or -fry, corn"
+  },
+  {
+   "id": "usda_fndds:2707396",
+   "nombre": "Frijoles refritos",
+   "cantidad": "0.5 1 taza (260 g)",
+   "cantidadBase": 130,
+   "baseEsperada": 130,
+   "kcal": {
+    "app": 117,
+    "fuente": 117,
+    "por100App": 90,
+    "por100Fuente": 90
+   },
+   "proteina": {
+    "app": 6.47,
+    "fuente": 6.47,
+    "por100App": 4.98,
+    "por100Fuente": 4.98
+   },
+   "carbohidratos": {
+    "app": 17.68,
+    "fuente": 17.68,
+    "por100App": 13.6,
+    "por100Fuente": 13.6
+   },
+   "grasa": {
+    "app": 2.61,
+    "fuente": 2.61,
+    "por100App": 2.01,
+    "por100Fuente": 2.01
+   },
+   "descripcionFuente": "Refried beans"
+  },
+  {
+   "id": "usda_branded:405016",
+   "nombre": "Wallaby organic, organic lowfat yogurt, black cherry",
+   "cantidad": "170 g",
+   "cantidadBase": 170,
+   "baseEsperada": 170,
+   "kcal": {
+    "app": 139.4,
+    "fuente": 139.4,
+    "por100App": 82,
+    "por100Fuente": 82
+   },
+   "proteina": {
+    "app": 7,
+    "fuente": 7,
+    "por100App": 4.12,
+    "por100Fuente": 4.12
+   },
+   "carbohidratos": {
+    "app": 22.95,
+    "fuente": 22.95,
+    "por100App": 13.5,
+    "por100Fuente": 13.5
+   },
+   "grasa": {
+    "app": 2.5,
+    "fuente": 2.5,
+    "por100App": 1.47,
+    "por100Fuente": 1.47
+   },
+   "descripcionFuente": "WALLABY ORGANIC, ORGANIC LOWFAT YOGURT, BLACK CHERRY"
+  },
+  {
+   "id": "usda_sr_legacy:168878",
+   "nombre": "Arroz blanco, cocido",
+   "cantidad": "1 1 taza (158 g)",
+   "cantidadBase": 158,
+   "baseEsperada": 158,
+   "kcal": {
+    "app": 205.4,
+    "fuente": 205.4,
+    "por100App": 130,
+    "por100Fuente": 130
+   },
+   "proteina": {
+    "app": 4.25,
+    "fuente": 4.25,
+    "por100App": 2.69,
+    "por100Fuente": 2.69
+   },
+   "carbohidratos": {
+    "app": 44.56,
+    "fuente": 44.56,
+    "por100App": 28.2,
+    "por100Fuente": 28.2
+   },
+   "grasa": {
+    "app": 0.44,
+    "fuente": 0.44,
+    "por100App": 0.28,
+    "por100Fuente": 0.28
+   },
+   "descripcionFuente": "Rice, white, long-grain, regular, enriched, cooked"
+  },
+  {
+   "id": "caloria_recetas:pozole-rojo-plato",
+   "nombre": "Pozole rojo de cerdo (plato servido)",
+   "cantidad": "1 1 plato hondo (513 g)",
+   "cantidadBase": 513,
+   "baseEsperada": 513,
+   "fuente": "receta (ver tabla de recetas)"
+  },
+  {
+   "id": "caloria_recetas:barbacoa-res",
+   "nombre": "Barbacoa de res",
+   "cantidad": "150 g",
+   "cantidadBase": 150,
+   "baseEsperada": 150,
+   "fuente": "receta (ver tabla de recetas)"
+  },
+  {
+   "id": "off:7501055341344",
+   "nombre": "Coca-Cola",
+   "cantidad": "355 ml",
+   "cantidadBase": 355,
+   "baseEsperada": 355,
+   "kcal": {
+    "app": 106.5,
+    "fuente": 106.5,
+    "por100App": 30,
+    "por100Fuente": 30
+   },
+   "proteina": {
+    "app": 0,
+    "fuente": 0,
+    "por100App": 0,
+    "por100Fuente": 0
+   },
+   "carbohidratos": {
+    "app": 26.63,
+    "fuente": 26.63,
+    "por100App": 7.5,
+    "por100Fuente": 7.5
+   },
+   "grasa": {
+    "app": 0,
+    "fuente": 0,
+    "por100App": 0,
+    "por100Fuente": 0
+   },
+   "descripcionFuente": "Coca-Cola"
+  },
+  {
+   "id": "usda_sr_legacy:175036",
+   "nombre": "Tortilla de maíz",
+   "cantidad": "1 1 tortilla (24 g)",
+   "cantidadBase": 24,
+   "baseEsperada": 24,
+   "kcal": {
+    "app": 52.32,
+    "fuente": 52.32,
+    "por100App": 218,
+    "por100Fuente": 218
+   },
+   "proteina": {
+    "app": 1.37,
+    "fuente": 1.37,
+    "por100App": 5.7,
+    "por100Fuente": 5.7
+   },
+   "carbohidratos": {
+    "app": 10.7,
+    "fuente": 10.7,
+    "por100App": 44.6,
+    "por100Fuente": 44.6
+   },
+   "grasa": {
+    "app": 0.68,
+    "fuente": 0.68,
+    "por100App": 2.85,
+    "por100Fuente": 2.85
+   },
+   "descripcionFuente": "Tortillas, ready-to-bake or -fry, corn"
+  }
+ ],
+ "detalles": [
+  {
+   "comida": "desayuno",
+   "q": "plátano",
+   "nombre": "Plátano",
+   "id": "usda_sr_legacy:173944",
+   "cantidad": 2,
+   "base": 118,
+   "defecto": "1 pieza mediano (7\" a 7 - 7/8\" largo) (118 g)",
+   "opciones": [
+    "1 pieza mediano (7\" a 7 - 7/8\" largo) (118 g)",
+    "1 porción NLEA (126 g)",
+    "1 pieza extra grande (9\" o longer) (152 g)",
+    "1 pieza grande (8\" a 8 - 7/8\" largo) (136 g)",
+    "1 taza, rebanada (150 g)",
+    "1 pieza chico (6\" a 6 - 7/8\" largo) (101 g)",
+    "1 extra chico (menos que 6\" largo) (81 g)",
+    "1 taza, machacada (225 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 210kcal 236 g Proteína 2.6 g Carbohidratos 53.8 g Grasa 0.8 g"
+  },
+  {
+   "comida": "desayuno",
+   "q": "leche deslactosada lala",
+   "nombre": "Leche deslactosada",
+   "marca": "/^Lala$/",
+   "id": "off:75042707",
+   "opcion": "/^mililitros$/",
+   "cantidad": 250,
+   "base": 1,
+   "defecto": "1 porción (250 ml)",
+   "opciones": [
+    "1 porción (250 ml)",
+    "mililitros",
+    "litros",
+    "taza (240 ml)",
+    "cucharada (15 ml)",
+    "cucharadita (5 ml)"
+   ],
+   "vista": "Vas a agregar 120kcal 250 ml Proteína 7.8 g Carbohidratos 12 g Grasa 4.5 g"
+  },
+  {
+   "comida": "desayuno",
+   "q": "huevo",
+   "nombre": "Huevo entero, crudo",
+   "id": "usda_sr_legacy:171287",
+   "opcion": "/pieza grande/",
+   "cantidad": 2,
+   "base": 50,
+   "defecto": "1 pieza mediano (44 g)",
+   "opciones": [
+    "1 pieza mediano (44 g)",
+    "1 taza (4.86 huevo grande) (243 g)",
+    "1 pieza extra grande (56 g)",
+    "1 pieza chico (38 g)",
+    "1 pieza jumbo (63 g)",
+    "1 pieza grande (50 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 143kcal 100 g Proteína 12.6 g Carbohidratos 0.7 g Grasa 9.5 g"
+  },
+  {
+   "comida": "colacion1",
+   "q": "licuado de plátano",
+   "nombre": "Licuado de plátano",
+   "id": "caloria_recetas:licuado-platano",
+   "cantidad": 1,
+   "base": 383.8,
+   "defecto": "1 vaso (licuado completo) (384 g)",
+   "opciones": [
+    "1 vaso (licuado completo) (384 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 293kcal 384 g Proteína 9.4 g Carbohidratos 47.3 g Grasa 8.8 g"
+  },
+  {
+   "comida": "colacion1",
+   "codigo": "7500478002801",
+   "id": "off:7500478002801",
+   "opcion": "/^gramos$/",
+   "cantidad": 30,
+   "base": 1,
+   "defecto": "1 porción (30 g)",
+   "opciones": [
+    "1 porción (30 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 152kcal 30 g Proteína 1 g Carbohidratos 19 g Grasa 8 g",
+   "nombre": "Cremax sabor a chocolate (Galletas de chocolate)"
+  },
+  {
+   "comida": "almuerzo",
+   "q": "tortilla de maíz",
+   "nombre": "Tortilla de maíz",
+   "id": "usda_sr_legacy:175036",
+   "opcion": "/^1 tortilla/",
+   "cantidad": 3,
+   "base": 24,
+   "defecto": "1 tortilla (24 g)",
+   "opciones": [
+    "1 tortilla (24 g)",
+    "1 enchilada (19 g)",
+    "1 oz (28 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 157kcal 72 g Proteína 4.1 g Carbohidratos 32.1 g Grasa 2.1 g"
+  },
+  {
+   "comida": "almuerzo",
+   "q": "frijoles refritos",
+   "nombre": "Frijoles refritos",
+   "id": "usda_fndds:2707396",
+   "cantidad": 0.5,
+   "base": 260,
+   "defecto": "1 taza (260 g)",
+   "opciones": [
+    "1 taza (260 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 117kcal 130 g Proteína 6.5 g Carbohidratos 17.7 g Grasa 2.6 g"
+  },
+  {
+   "comida": "almuerzo",
+   "codigo": "795709010077",
+   "id": "usda_branded:405016",
+   "opcion": "/^gramos$/",
+   "cantidad": 170,
+   "base": 1,
+   "defecto": "6 oz (170 g)",
+   "opciones": [
+    "6 oz (170 g)",
+    "1 porción (170 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 139kcal 170 g Proteína 7 g Carbohidratos 23 g Grasa 2.5 g",
+   "nombre": "Wallaby organic, organic lowfat yogurt, black cherry"
+  },
+  {
+   "comida": "comida",
+   "q": "arroz",
+   "nombre": "Arroz blanco, cocido",
+   "id": "usda_sr_legacy:168878",
+   "cantidad": 1,
+   "base": 158,
+   "defecto": "1 taza (158 g)",
+   "opciones": [
+    "1 taza (158 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 205kcal 158 g Proteína 4.3 g Carbohidratos 44.6 g Grasa 0.4 g"
+  },
+  {
+   "comida": "comida",
+   "q": "pozole",
+   "nombre": "Pozole rojo de cerdo (plato servido)",
+   "id": "caloria_recetas:pozole-rojo-plato",
+   "cantidad": 1,
+   "base": 513,
+   "defecto": "1 plato hondo (513 g)",
+   "opciones": [
+    "1 plato hondo (513 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 405kcal 513 g Proteína 26.6 g Carbohidratos 31 g Grasa 19.2 g"
+  },
+  {
+   "comida": "comida",
+   "q": "barbacoa",
+   "nombre": "Barbacoa de res",
+   "id": "caloria_recetas:barbacoa-res",
+   "opcion": "/^gramos$/",
+   "cantidad": 150,
+   "base": 1,
+   "defecto": "1 porción (100 g)",
+   "opciones": [
+    "1 porción (100 g)",
+    "1/4 kg (250 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 435kcal 150 g Proteína 42.8 g Carbohidratos 2 g Grasa 27.3 g"
+  },
+  {
+   "comida": "cena",
+   "q": "coca cola",
+   "nombre": "Coca-Cola",
+   "id": "off:7501055341344",
+   "opcion": "/^mililitros$/",
+   "cantidad": 355,
+   "base": 1,
+   "defecto": "1 porción (100 ml)",
+   "opciones": [
+    "1 porción (100 ml)",
+    "mililitros",
+    "litros",
+    "taza (240 ml)",
+    "cucharada (15 ml)",
+    "cucharadita (5 ml)"
+   ],
+   "vista": "Vas a agregar 107kcal 355 ml Proteína 0 g Carbohidratos 26.6 g Grasa 0 g"
+  },
+  {
+   "comida": "colacion2",
+   "q": "tortilla de maíz",
+   "nombre": "Tortilla de maíz",
+   "id": "usda_sr_legacy:175036",
+   "opcion": "/^1 tortilla/",
+   "cantidad": 1,
+   "base": 24,
+   "defecto": "1 tortilla (24 g)",
+   "opciones": [
+    "1 tortilla (24 g)",
+    "1 enchilada (19 g)",
+    "1 oz (28 g)",
+    "gramos",
+    "kilogramos"
+   ],
+   "vista": "Vas a agregar 52kcal 24 g Proteína 1.4 g Carbohidratos 10.7 g Grasa 0.7 g"
+  }
+ ]
+}

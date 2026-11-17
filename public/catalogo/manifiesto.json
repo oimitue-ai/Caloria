@@ -1,6 +1,6 @@
 {
-  "version": "20261117052851",
-  "generado": "2026-11-17T05:28:51.655Z",
+  "version": "20261117061151",
+  "generado": "2026-11-17T06:11:51.540Z",
   "totalRegistros": 449869,
   "fuentes": [
     {
@@ -146,7 +146,7 @@
       "traduccion": {
         "traducidos": 6917,
         "curados": 875,
-        "cobertura100": 5525,
+        "cobertura100": 5527,
         "coberturaMedia": 0.951
       }
     },
@@ -163,7 +163,7 @@
       "traduccion": {
         "traducidos": 5431,
         "curados": 0,
-        "cobertura100": 4950,
+        "cobertura100": 4952,
         "coberturaMedia": 0.959
       }
     },
@@ -224,10 +224,10 @@
   },
   "archivos": {
     "total": 10266,
-    "bytes": 519578972,
+    "bytes": 519578784,
     "mayor": {
       "ruta": "base/indice-001.json",
-      "bytes": 1304450
+      "bytes": 1304372
     }
   }
 }

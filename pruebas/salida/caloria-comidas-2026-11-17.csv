@@ -1,0 +1,16 @@
+﻿Fecha,Comida,Alimento,Marca,Cantidad,Unidad,Porción,Cantidad base,Base,Calorías (kcal),Proteína (g),Carbohidratos (g),Grasa (g),Grasa saturada (g),Fibra (g),Azúcares (g),Sodio (mg),Fuente
+2026-11-17,Desayuno,Plátano,,1.5,pza,"1 pieza mediano (7"" a 7 - 7/8"" largo) (118 g)",177,g,157.53,1.93,40.36,0.58,0.19,4.6,21.59,1.77,usda_sr_legacy
+2026-11-17,Desayuno,Leche deslactosada,Lala,250,ml,,250,ml,119.75,7.8,12,4.5,2.8,0,12,117.75,off
+2026-11-17,Primera colación,Licuado de plátano,,1,porc,1 vaso (licuado completo) (384 g),383.8,g,293.22,9.4,47.28,8.75,4.91,3.07,35.39,112.07,caloria_recetas
+2026-11-17,Primera colación,Cremax sabor a chocolate (Galletas de chocolate),Pepsi Co.,30,g,,30,g,152.01,1,19,8,5,1,12,49.77,off
+2026-11-17,Almuerzo,Tortilla de maíz,,3,pza,1 tortilla (24 g),72,g,156.96,4.1,32.11,2.05,0.32,4.54,0.63,32.4,usda_sr_legacy
+2026-11-17,Almuerzo,Frijoles refritos,,120,g,,120,g,108,5.98,16.32,2.41,0.76,4.44,0.65,444,usda_fndds
+2026-11-17,Almuerzo,"Wallaby organic, organic lowfat yogurt, black cherry",WWF Operating Company,170,g,,170,g,139.4,7,22.95,2.5,1.5,0,19.04,74.8,usda_branded
+2026-11-17,Comida,"Arroz blanco, cocido",,1,tza,1 taza (158 g),158,g,205.4,4.25,44.56,0.44,0.13,0.63,0.08,1.58,usda_sr_legacy
+2026-11-17,Comida,Pozole rojo de cerdo (plato servido),,1,porc,1 plato hondo (513 g),513,g,405.27,26.57,31.04,19.24,6.67,5.69,3.13,1392.28,caloria_recetas
+2026-11-17,Comida,Barbacoa de res,,150,g,,150,g,435.45,42.83,1.95,27.26,10.77,0.56,0.2,564.15,caloria_recetas
+2026-11-17,Cena,Coca-Cola,Coca-Cola,355,ml,,355,ml,106.5,0,26.63,0,0,0,26.63,35.5,off
+2026-11-17,Cena,"'=HYPERLINK(""http://ejemplo.invalid"",""clic"")",,100,g,,100,g,100,1,20,1,,,,,usuario
+2026-11-17,Cena,"<img src=x onerror=""window.__xss=1"">Taco <b>XSS</b>",,100,g,,100,g,100,1,20,1,,,,,usuario
+2026-11-17,Segunda colación,Tortilla de maíz,,1,pza,1 tortilla (24 g),24,g,52.32,1.37,10.7,0.68,0.11,1.51,0.21,10.8,usda_sr_legacy
+2026-11-17,Segunda colación,Gelatina auditoría,,200,g,,200,g,120,3,28,0,,,,,usuario

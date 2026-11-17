@@ -1,0 +1,5 @@
+# Archivos fuente pesados (se descargan aparte; ver FUENTES.md)
+crudos/
+# Salidas intermedias del pipeline
+salida/
+node_modules/

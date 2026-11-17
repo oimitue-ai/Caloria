@@ -1,0 +1,459 @@
+{
+ "primera": {
+  "ms": 354,
+  "top": [
+   "Plátano",
+   "Plátano, crudo",
+   "Plátano, overripe, crudo",
+   "Plátano macho, maduro, frito",
+   "Plátano, horneado"
+  ],
+  "parcial": false
+ },
+ "filas": [
+  {
+   "q": "plátano",
+   "ms": 198,
+   "top": [
+    "Plátano",
+    "Plátano, crudo",
+    "Plátano, overripe, crudo",
+    "Plátano macho, maduro, frito",
+    "Plátano, horneado"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "tortilla de maíz",
+   "ms": 287,
+   "top": [
+    "Tortilla de maíz",
+    "Tortilla, maíz",
+    "Tortilla, maíz, de anaquel",
+    "Tortilla, maíz azul, Sakwavikaviki (Hopi)",
+    "Tortilla, lista para hornear o - frita, maíz, sin sal añadida"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "barbacoa",
+   "ms": 248,
+   "top": [
+    "Barbacoa de res",
+    "Barbacoa de borrego",
+    "Consomé de barbacoa",
+    "Taco de barbacoa de res",
+    "Taco de barbacoa de borrego"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "leche deslactosada lala",
+   "ms": 256,
+   "top": [
+    "Lala Deslactosada",
+    "Leche deslactosada",
+    "Leche deslactosada",
+    "Leche Lala Deslactosada",
+    "Leche fibra deslactosada LALA"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "coca cola",
+   "ms": 327,
+   "top": [
+    "Coca-Cola",
+    "Coca-Cola",
+    "Coca Cola",
+    "Coca-Cola",
+    "Coca Cola"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "huevo",
+   "ms": 310,
+   "top": [
+    "Huevos a la mexicana",
+    "Huevo entero, crudo",
+    "Huevo, entero, crudo",
+    "Huevos rancheros",
+    "Huevo frito"
+   ],
+   "parcial": false,
+   "pos": 2
+  },
+  {
+   "q": "arroz",
+   "ms": 210,
+   "top": [
+    "Arroz blanco a la mexicana",
+    "Arroz blanco, crudo",
+    "Arroz blanco, cocido",
+    "Arroz con leche",
+    "Arroz con gandules"
+   ],
+   "parcial": false,
+   "pos": 3
+  },
+  {
+   "q": "frijoles refritos",
+   "ms": 153,
+   "top": [
+    "Frijoles refritos",
+    "Frijoles refritos caseros con manteca",
+    "Frijoles refritos (enlatados)",
+    "Frijoles refritos (restaurante)",
+    "Frijoles refritos con carne"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "pozole",
+   "ms": 453,
+   "top": [
+    "Pozole rojo de cerdo (plato servido)",
+    "Sopa, pozole",
+    "Pozole Rojo",
+    "Maíz para pozole Ovarb",
+    "Pozole white hominy"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "licuado de plátano",
+   "ms": 315,
+   "top": [
+    "Licuado de plátano",
+    "Licuado de avena",
+    "Licuado de jugo de fruta, ODWALLA, plátano de fresa",
+    "Licuado de jugo de fruta, jugo natural, plátano de fresa",
+    "Batido de fresa y plátano (smoothie)"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "jitomate",
+   "ms": 233,
+   "top": [
+    "Jitomate, crudo",
+    "Jitomate, cocido",
+    "Jitomate, crudo",
+    "Jitomate, fresco, cocido",
+    "Jitomate seco"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "elote",
+   "ms": 300,
+   "top": [
+    "Elote / maíz dulce, crudo",
+    "Maíz, crudo",
+    "Maíz pozolero, cocido",
+    "Maíz, granos cocidos",
+    "Maíz congelado, cocido"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "chícharo",
+   "ms": 293,
+   "top": [
+    "Chícharos, crudo",
+    "Chícharos en lata",
+    "Chícharos congelados, cocidos",
+    "Chícharos / chícharos, crudos",
+    "Chícharos / chícharos, cocidos"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "cacahuate",
+   "ms": 213,
+   "top": [
+    "Cacahuate, crudo",
+    "Cacahuate, hervido",
+    "Cacahuates (maní)",
+    "Cacahuate, español, crudo",
+    "Cacahuate, valencia, crudo"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "bolillo",
+   "ms": 257,
+   "top": [
+    "Pan francés, natural",
+    "Bollo, mexicano, bolillo",
+    "Pan, francés o viena",
+    "Pan francés, escolar",
+    "Pan francés, congelado"
+   ],
+   "parcial": false,
+   "pos": 2
+  },
+  {
+   "q": "telera",
+   "ms": 166,
+   "top": [
+    "Telera (pan para torta)",
+    "Telera",
+    "Pan, tipo de panqué, sartén de torta salvadoreña",
+    "Wheat telera",
+    "Telera rolls, telera"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "pan dulce",
+   "ms": 250,
+   "top": [
+    "Pan dulce, sin cobertura",
+    "Pan dulce, sin especificar",
+    "Pan dulce, con pasas y glaseado",
+    "Pan dulce, con cobertura de azúcar",
+    "Pan, pan dulce, pan de levadura dulce"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "concha",
+   "ms": 165,
+   "top": [
+    "Concha rellena, con pollo, con salsa de jitomate",
+    "Concha rellena, rellena de queso, sin salsa",
+    "Concha rellena, rellena de queso, con salsa de carne",
+    "Concha rellena, con pescado y/o mariscos, con salsa de jitomate",
+    "Pan dulce, con cobertura de azúcar"
+   ],
+   "parcial": false,
+   "pos": 5
+  },
+  {
+   "q": "queso panela",
+   "ms": 166,
+   "top": [
+    "Queso panela",
+    "Queso Panela",
+    "Queso panela",
+    "Queso Panela",
+    "Queso Panela"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "queso oaxaca",
+   "ms": 232,
+   "top": [
+    "Queso asadero",
+    "Queso, oaxaca, sólido",
+    "Quesadilla de maíz con queso (tipo Oaxaca)",
+    "Queso Oaxaca",
+    "Queso Oaxaca"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "chorizo",
+   "ms": 164,
+   "top": [
+    "Chorizo, crudo",
+    "Chorizo",
+    "Sope de chorizo",
+    "Chorizo",
+    "Chorizo"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "carnitas",
+   "ms": 167,
+   "top": [
+    "Taco de carnitas",
+    "Carne de cerdo, carnitas",
+    "Carnitas, orange",
+    "Carnitas seasoned pork",
+    "Carnitas Atun Dolores"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "birria",
+   "ms": 165,
+   "top": [
+    "Birria de res",
+    "Birria con consomé (plato)",
+    "Taco de birria",
+    "Birria De Res",
+    "Nissin Cup Noodles birria 70g"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "tacos al pastor",
+   "ms": 153,
+   "top": [
+    "Taco al pastor",
+    "Soya. Pastor",
+    "Carne Al Pastor",
+    "Carne al Pastor",
+    "Carne De Trompo"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "quesadilla",
+   "ms": 147,
+   "top": [
+    "Quesadilla de harina con queso",
+    "Quesadilla de queso",
+    "Quesadilla de pollo",
+    "Quesadilla, pollo",
+    "Quesadilla, huevo"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "agua de jamaica",
+   "ms": 217,
+   "top": [
+    "Agua de jamaica",
+    "Flor de jamaica, cruda",
+    "Aguas frescas (Jamaica)",
+    "Agua con jugo arándano-jamaica",
+    "Jamaica (Agua embotellada sabor Jamaica)"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "horchata",
+   "ms": 197,
+   "top": [
+    "Horchata, con agua",
+    "Horchata, con leche",
+    "Bebida, horchata, como served en restaurante",
+    "Horchata",
+    "Horchata"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "atún en agua",
+   "ms": 242,
+   "top": [
+    "Atún en lata al natural",
+    "Atún blanco en lata al natural",
+    "Atún en agua",
+    "ATÚN EN AGUA",
+    "atun en agua"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "yogur griego",
+   "ms": 214,
+   "top": [
+    "Yogur, griego, natural, descremado",
+    "Yogur, griego, natural, leche entera",
+    "Yogur, griego, natural, leche entera",
+    "Yogur, griego, entero, natural, CHOBANI",
+    "Yogur, griego, con avena"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "avena",
+   "ms": 231,
+   "top": [
+    "Avena, cruda",
+    "Avena, inflada",
+    "Avena cocida (con agua)",
+    "Avena en hojuelas, cruda",
+    "Avena, multigrano"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "platno",
+   "ms": 150,
+   "top": [
+    "Plátano",
+    "Plátano, crudo",
+    "Plátano, overripe, crudo",
+    "Plátano macho, maduro, frito",
+    "Plátano, horneado"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "tortila",
+   "ms": 151,
+   "top": [
+    "Tortilla de maíz",
+    "Tortilla de harina",
+    "Tortilla, maíz",
+    "Tortilla, harina",
+    "Tortilla, maíz, de anaquel"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "quezo oaxaca",
+   "ms": 149,
+   "top": [
+    "Queso asadero",
+    "Queso, oaxaca, sólido",
+    "Quesadilla de maíz con queso (tipo Oaxaca)",
+    "Queso Oaxaca",
+    "Queso Oaxaca"
+   ],
+   "parcial": false,
+   "pos": 1
+  },
+  {
+   "q": "jamon de pavo",
+   "ms": 199,
+   "top": [
+    "Jamón, pavo, rebanado, extra magro, empacado o salchichonería",
+    "Jamón de pavo, empacado o salchichonería, carnes frías",
+    "Jamón de pavo",
+    "JAMÓN DE PAVO",
+    "Jamon de pavo"
+   ],
+   "parcial": false,
+   "pos": 1
+  }
+ ],
+ "mediana": 214,
+ "p95": 327
+}

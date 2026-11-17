@@ -1,0 +1,91 @@
+{
+ "movil #/": [
+  {
+   "id": "label-content-name-mismatch",
+   "impacto": "serious",
+   "n": 15,
+   "ej": "li[aria-labelledby=\"comida-desayuno\"] > ul > li:nth-child(1) > .min-h-14.text-left.hover\\:bg-hundido\\/60"
+  }
+ ],
+ "movil #/calendario": [
+  {
+   "id": "color-contrast",
+   "impacto": "serious",
+   "n": 13,
+   "ej": ".contents[role=\"row\"]:nth-child(4) > .text-tinta-3\\/60.relative.aspect-\\[0\\.86\\]:nth-child(3) > .text-\\[0\\.95rem\\].leading-none.cifras"
+  },
+  {
+   "id": "label-content-name-mismatch",
+   "impacto": "serious",
+   "n": 1,
+   "ej": ".text-tinta"
+  }
+ ],
+ "movil #/peso": [],
+ "movil #/estadisticas": [],
+ "movil #/mas": [],
+ "movil #/mas/perfil": [
+  {
+   "id": "color-contrast",
+   "impacto": "serious",
+   "n": 1,
+   "ej": ".mt-1.text-xs"
+  }
+ ],
+ "movil #/mas/recetas": [],
+ "movil #/mas/alimentos": [],
+ "movil #/mas/alimentos/nuevo": [],
+ "movil #/mas/respaldo": [],
+ "movil #/mas/fuentes": [],
+ "movil #/mas/acerca": [],
+ "movil hoja": [],
+ "movil panel": [
+  {
+   "id": "color-contrast",
+   "impacto": "serious",
+   "n": 2,
+   "ej": ".font-normal"
+  }
+ ],
+ "escritorio #/": [
+  {
+   "id": "label-content-name-mismatch",
+   "impacto": "serious",
+   "n": 15,
+   "ej": "li[aria-labelledby=\"comida-desayuno\"] > ul > li:nth-child(1) > .min-h-14.text-left.hover\\:bg-hundido\\/60"
+  }
+ ],
+ "escritorio #/calendario": [
+  {
+   "id": "color-contrast",
+   "impacto": "serious",
+   "n": 13,
+   "ej": ".contents[role=\"row\"]:nth-child(4) > .text-tinta-3\\/60.relative.aspect-\\[0\\.86\\]:nth-child(3) > .text-\\[0\\.95rem\\].leading-none.cifras"
+  },
+  {
+   "id": "label-content-name-mismatch",
+   "impacto": "serious",
+   "n": 1,
+   "ej": ".text-tinta"
+  }
+ ],
+ "escritorio #/peso": [],
+ "escritorio #/estadisticas": [
+  {
+   "id": "color-contrast",
+   "impacto": "serious",
+   "n": 2,
+   "ej": ".bg-proteina.text-white.rounded-\\[4px\\]"
+  }
+ ],
+ "escritorio #/mas": [],
+ "escritorio #/mas/perfil": [],
+ "escritorio #/mas/recetas": [],
+ "escritorio #/mas/alimentos": [],
+ "escritorio #/mas/alimentos/nuevo": [],
+ "escritorio #/mas/respaldo": [],
+ "escritorio #/mas/fuentes": [],
+ "escritorio #/mas/acerca": [],
+ "escritorio hoja": [],
+ "escritorio panel": []
+}

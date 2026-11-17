@@ -1,0 +1,14 @@
+{
+  "name": "caloria-datos",
+  "private": true,
+  "type": "module",
+  "description": "Pipeline de importación del catálogo nutricional de CALORÍA",
+  "scripts": {
+    "construir": "node --max-old-space-size=5000 node_modules/.bin/tsx pipeline/construir.ts",
+    "probar": "cd .. && vitest run datos src/catalogo"
+  },
+  "dependencies": {
+    "stream-json": "^1.9.1",
+    "tsx": "^4.20.0"
+  }
+}
