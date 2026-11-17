@@ -1,0 +1,233 @@
+{
+  "version": "20261117052851",
+  "generado": "2026-11-17T05:28:51.655Z",
+  "totalRegistros": 449869,
+  "fuentes": [
+    {
+      "id": "usda_foundation",
+      "nombre": "USDA FoodData Central — Foundation Foods",
+      "licencia": "Dominio público (CC0 1.0)",
+      "atribucion": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Foundation Foods. fdc.nal.usda.gov",
+      "url": "https://fdc.nal.usda.gov/download-datasets",
+      "version": "2026-10-29",
+      "registros": 374,
+      "fechaImportacion": "2026-11-17"
+    },
+    {
+      "id": "usda_sr_legacy",
+      "nombre": "USDA FoodData Central — SR Legacy",
+      "licencia": "Dominio público (CC0 1.0)",
+      "atribucion": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: SR Legacy (2018). fdc.nal.usda.gov. Nombres en español de 875 alimentos: \"Alimentos ES\" (Ronyol012/Food-Full-Data-Base), CC BY 4.0.",
+      "url": "https://fdc.nal.usda.gov/download-datasets",
+      "version": "2018-04",
+      "registros": 7792,
+      "fechaImportacion": "2026-11-17"
+    },
+    {
+      "id": "usda_fndds",
+      "nombre": "USDA FoodData Central — FNDDS 2021-2023 (Survey Foods)",
+      "licencia": "Dominio público (CC0 1.0)",
+      "atribucion": "U.S. Department of Agriculture, Agricultural Research Service. Food and Nutrient Database for Dietary Studies 2021-2023. fdc.nal.usda.gov",
+      "url": "https://fdc.nal.usda.gov/download-datasets",
+      "version": "2024-10-31",
+      "registros": 5431,
+      "fechaImportacion": "2026-11-17"
+    },
+    {
+      "id": "off",
+      "nombre": "Open Food Facts (productos vendidos en México)",
+      "licencia": "ODbL 1.0 (base de datos) + DbCL 1.0 (contenidos)",
+      "atribucion": "Datos de Open Food Facts (https://world.openfoodfacts.org), disponibles bajo la Open Database License (ODbL). Conjunto separado, sin fusionar con otras fuentes.",
+      "url": "https://world.openfoodfacts.org/data",
+      "version": "",
+      "registros": 12955,
+      "fechaImportacion": "2026-11-17"
+    },
+    {
+      "id": "usda_branded",
+      "nombre": "USDA FoodData Central — Global Branded Food Products",
+      "licencia": "Dominio público (CC0 1.0)",
+      "atribucion": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central: Branded Foods (datos de etiqueta aportados por la industria). fdc.nal.usda.gov",
+      "url": "https://fdc.nal.usda.gov/download-datasets",
+      "version": "2026-10-29",
+      "registros": 423271,
+      "fechaImportacion": "2026-11-17"
+    },
+    {
+      "id": "caloria_recetas",
+      "nombre": "CALORÍA — platillos mexicanos por receta estandarizada",
+      "licencia": "Cálculo propio a partir de USDA (dominio público)",
+      "atribucion": "Valores estimados por CALORÍA con recetas típicas e ingredientes de USDA FoodData Central; la preparación real varía.",
+      "url": "",
+      "version": "1",
+      "registros": 46,
+      "fechaImportacion": "2026-11-17"
+    }
+  ],
+  "formato": 1,
+  "base": {
+    "registros": 13643,
+    "porFuente": {
+      "caloria_recetas": 46,
+      "usda_sr_legacy": 7792,
+      "usda_fndds": 5431,
+      "usda_foundation": 374
+    },
+    "mexicanos": 420,
+    "indices": [
+      "indice-000.json",
+      "indice-001.json",
+      "indice-002.json"
+    ],
+    "detalles": [
+      "detalle-000.json",
+      "detalle-001.json",
+      "detalle-002.json",
+      "detalle-003.json",
+      "detalle-004.json",
+      "detalle-005.json",
+      "detalle-006.json",
+      "detalle-007.json",
+      "detalle-008.json",
+      "detalle-009.json",
+      "detalle-010.json",
+      "detalle-011.json"
+    ]
+  },
+  "marcas": {
+    "fuentes": {
+      "usda_branded": {
+        "productos": 423271,
+        "mexicanos": 1830,
+        "terminos": 34751,
+        "archivosIndice": 7550,
+        "cubetasDetalle": 1210
+      },
+      "off": {
+        "productos": 12955,
+        "mexicanos": 12955,
+        "terminos": 6868,
+        "archivosIndice": 120,
+        "cubetasDetalle": 38
+      }
+    },
+    "codigosBarras": 422580,
+    "codigosEnAmbasFuentes": 334,
+    "archivosCodigos": 1198
+  },
+  "limpieza": {
+    "usda_foundation": {
+      "archivo": "FoodData_Central_foundation_food_json_2026-10-29.zip:FoodData_Central_foundation_food_json_2026-10-29.json",
+      "procedencia": "oficial: FoodData_Central_foundation_food_json_2026-10-29.zip",
+      "leidos": 424,
+      "importados": 374,
+      "descartados": {
+        "sin_kcal": 50
+      },
+      "atipicosMarcados": 0,
+      "mexicanos": 15,
+      "traduccion": {
+        "traducidos": 374,
+        "curados": 0,
+        "cobertura100": 292,
+        "coberturaMedia": 0.934
+      }
+    },
+    "usda_sr_legacy": {
+      "archivo": "FoodData_Central_sr_legacy_food_json_2018-04.zip:FoodData_Central_sr_legacy_food_json_2018-04.json",
+      "procedencia": "oficial: FoodData_Central_sr_legacy_food_json_2018-04.zip",
+      "leidos": 7793,
+      "importados": 7792,
+      "descartados": {
+        "azucares_mayor_que_carbohidratos": 1
+      },
+      "atipicosMarcados": 22,
+      "mexicanos": 161,
+      "traduccion": {
+        "traducidos": 6917,
+        "curados": 875,
+        "cobertura100": 5525,
+        "coberturaMedia": 0.951
+      }
+    },
+    "usda_fndds": {
+      "archivo": "FoodData_Central_survey_food_json_2024-10-31.zip:surveyDownload.json",
+      "procedencia": "oficial: FoodData_Central_survey_food_json_2024-10-31.zip",
+      "leidos": 5432,
+      "importados": 5431,
+      "descartados": {
+        "sin_kcal": 1
+      },
+      "atipicosMarcados": 5,
+      "mexicanos": 198,
+      "traduccion": {
+        "traducidos": 5431,
+        "curados": 0,
+        "cobertura100": 4950,
+        "coberturaMedia": 0.959
+      }
+    },
+    "off": {
+      "archivo": "off_mexico.tsv.gz",
+      "procedencia": "oficial: volcado CSV de Open Food Facts filtrado a México (off_mexico.tsv.gz)",
+      "leidos": 18673,
+      "importados": 12955,
+      "descartados": {
+        "kcal_imposible": 32,
+        "suma_macros_mayor_100": 34,
+        "sin_kcal": 3753,
+        "azucares_mayor_que_carbohidratos": 30,
+        "sin_nombre": 1676,
+        "sodio_imposible": 42,
+        "macro_fuera_de_rango": 26,
+        "fibra_mayor_que_carbohidratos": 108,
+        "saturada_mayor_que_grasa": 17
+      },
+      "atipicosMarcados": 330,
+      "duplicados": {
+        "mismo_codigo_barras_se_conserva_el_mas_reciente": 0,
+        "sin_codigo_barras_valido": 420
+      },
+      "mexicanos": 12955
+    },
+    "usda_branded": {
+      "archivo": "FoodData_Central_branded_food_json_2026-10-29.zip:FoodData_Central_branded_food_json_2026-10-29.json",
+      "procedencia": "oficial: FoodData_Central_branded_food_json_2026-10-29.zip",
+      "leidos": 434001,
+      "importados": 423271,
+      "descartados": {
+        "sin_kcal": 5038,
+        "azucares_mayor_que_carbohidratos": 1116,
+        "suma_macros_mayor_100": 1425,
+        "macro_fuera_de_rango": 1190,
+        "kcal_imposible": 531,
+        "sodio_imposible": 455,
+        "saturada_mayor_que_grasa": 428,
+        "fibra_mayor_que_carbohidratos": 107
+      },
+      "atipicosMarcados": 8675,
+      "duplicados": {
+        "mismo_codigo_barras_se_conserva_el_mas_reciente": 440,
+        "sin_codigo_barras_valido": 12892
+      },
+      "mexicanos": 1830
+    }
+  },
+  "duplicados": {
+    "genericosEquivalentesPorNombre": 383,
+    "codigosBarrasEnUsdaYOff": 334
+  },
+  "recetas": {
+    "recetas": 46,
+    "ingredientesOficiales": 71,
+    "errores": []
+  },
+  "archivos": {
+    "total": 10266,
+    "bytes": 519578972,
+    "mayor": {
+      "ruta": "base/indice-001.json",
+      "bytes": 1304450
+    }
+  }
+}
